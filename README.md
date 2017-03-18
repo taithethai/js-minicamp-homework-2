@@ -4,11 +4,11 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* for loop
-	* && || !
-	* Array
-	* git
-	* GitHub
+	* for loop - takes in a leading variable, when to finish the loop, and how to increment the loop - goes through and repeats anything inside the loop until the variable hits limit.
+	* && || ! - these are 'and', 'or', and 'not', respectively. They are logic switches, 'and' requires all conditions to be true, 'or' requires one condition to be true, and 'not' switches between boolean true and false
+	* Array - series of cubby holes, labeled starting with 0, contains vars
+	* git - a tool to colaborate on work
+	* GitHub - public repo storage
 
 
 2. Install git.  https://git-scm.com/downloads
